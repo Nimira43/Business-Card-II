@@ -1,12 +1,9 @@
 import React from 'react'
 
-const App = () => {
+export default function App() {
   return (
-    <div>
-      <h1>Business Card</h1>
-    </div>
+    <div>Business Card</div>
   )
 }
 
-export default App
 
