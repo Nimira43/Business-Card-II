@@ -8,17 +8,17 @@ export default function FrontCard() {
         <p>We are a passionate team of coders, crafting innovative software solutions to drive your business forward.</p>
         <ul>
           <li>
-            <i className='fa-brands fa-github'></i>
+            <button className='fa-brands fa-github'></button>
           </li>
         </ul>
         <ul>
           <li>
-            <i className='fa-brands fa-discord'></i>
+            <button className='fa-brands fa-discord'></button>
           </li>
         </ul>
         <ul>
           <li>
-            <i className='fa-brands fa-youtube'></i>
+            <button className='fa-brands fa-youtube'></button>
           </li>
         </ul>
       </div>
